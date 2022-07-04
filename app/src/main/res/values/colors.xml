@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#03DAC5</color>
+    <color name="colorPrimaryDark">#009EB3</color>
+    <color name="colorAccent">#6200EE</color>
+
+    <color name="black">#000000</color>
+    <color name="light_gray">#ddd</color>
+    <color name="red">#FF0000</color>
+    <color name="limegreen">#ff669900</color>
+    <color name="white">#FFFFFF</color>
+    <color name="grey">#d1d1d1</color>
+    <color name="greyDark">#9B9B9B</color>
+    <color name="facebook">#3c589e</color>
+    <color name="formStroke">#dfdfdf</color>
+    <color name="greyLight">#f5f5f5</color>
+    <color name="greyLightTransparent">#65F5F5F5</color>
+    <color name="colorBackground">#eaeaea</color>
+    <color name="gray">#9098B1</color>
+    <color name="statusSuccess">#679B5E</color>
+    <color name="statusOnProcess">#C4C4C4</color>
+    <color name="statusRejected">#FF5353</color>
+    <color name="statusUnpaid">#F57C00</color>
+    <color name="statusPaid">#388E3C</color>
+</resources>
